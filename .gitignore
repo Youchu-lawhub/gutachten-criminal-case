@@ -1,0 +1,12 @@
+# User config (generated at runtime, not distributed)
+.user-config.md
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Verification logs (generated per session)
+verification-log.md
